@@ -13,7 +13,7 @@ I am a Computer Engineering student at Universidad de Chile. I have experience i
 - 👯 I’m looking forward to collaborate on projects and software development roles.
 - ✔ Ask me about ReactTS, Python, FastAPI, and SQL.
 - ⚡ Outside tech, I impart math tutoring for PAES/university students and manage a math YouTube channel.
-- 📫 Reach out to me at: <a href="mailto:benjaaleal7@gmail.com">benjaaleal7@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:benjaaleal7@gmail.com">benjaaleal7@gmail.com</a> or <a href="mailto:benjamin.alcaino@ug.uchile.cl">benjamin.alcaino@ug.uchile.cl</a>
 
 ## My Skills Include
 
