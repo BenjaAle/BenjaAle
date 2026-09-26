@@ -2,8 +2,8 @@
 <!--  -->
 <img align="right" width=300px alt="Coding" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-<!-- https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif --> GATO PROGRAMADOR
-<!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif --> PERSONA PROGRAMADORA
+<!-- https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif    GATO PROGRAMADOR --> 
+<!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif    PERSONA PROGRAMADORA --> 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
